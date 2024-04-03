@@ -153,6 +153,14 @@
                 "file": "Obsidian常用插件推荐以及下载链接.md"
               }
             }
+          },
+          {
+            "id": "7d59d36f032b82d0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -169,10 +177,11 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "d02e5777d171209a",
+  "active": "1e985a1f2cee0dbf",
   "lastOpenFiles": [
     "git init.md",
     "Obsidian常用插件推荐以及下载链接.md",

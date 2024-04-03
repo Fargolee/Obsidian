@@ -4,5 +4,7 @@
   "obsidian-tasks-plugin",
   "obsidian-git",
   "obsidian-kanban",
-  "templater-obsidian"
+  "templater-obsidian",
+  "better-word-count",
+  "calendar"
 ]
