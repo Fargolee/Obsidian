@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git init.md",
+                "file": "Obsidian常用插件推荐以及下载链接.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git init.md",
+                "file": "Obsidian常用插件推荐以及下载链接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git init.md",
+                "file": "Obsidian常用插件推荐以及下载链接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git init.md"
+                "file": "Obsidian常用插件推荐以及下载链接.md"
               }
             }
           }
@@ -172,10 +172,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1e985a1f2cee0dbf",
+  "active": "d02e5777d171209a",
   "lastOpenFiles": [
-    "Obsidian常用插件推荐以及下载链接.md",
     "git init.md",
+    "Obsidian常用插件推荐以及下载链接.md",
     "未命名",
     "使用 Github 进行 Obsidian 笔记同步.md",
     "新建文本文档.txt",
