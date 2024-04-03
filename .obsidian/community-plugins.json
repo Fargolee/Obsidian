@@ -7,5 +7,7 @@
   "templater-obsidian",
   "better-word-count",
   "calendar",
-  "obsidian-day-planner"
+  "obsidian-day-planner",
+  "obsidian-pandoc",
+  "obsidian-highlightpublicnotes-plugin"
 ]
