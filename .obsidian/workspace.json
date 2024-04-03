@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ea0ac9407a274aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian常用插件推荐以及下载链接.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用 Github 进行 Obsidian 笔记同步.md",
+                "file": "Obsidian常用插件推荐以及下载链接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "使用 Github 进行 Obsidian 笔记同步.md",
+                "file": "Obsidian常用插件推荐以及下载链接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "使用 Github 进行 Obsidian 笔记同步.md"
+                "file": "Obsidian常用插件推荐以及下载链接.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "908a17cd3e49aa0e",
+  "active": "7ea0ac9407a274aa",
   "lastOpenFiles": [
+    "使用 Github 进行 Obsidian 笔记同步.md",
+    "Obsidian常用插件推荐以及下载链接.md",
     "新建文本文档.txt",
-    "2024-04-03.md",
-    "使用 Github 进行 Obsidian 笔记同步.md"
+    "2024-04-03.md"
   ]
 }
