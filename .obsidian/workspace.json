@@ -161,6 +161,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "871aef99d1411616",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ]
       }
@@ -178,7 +186,8 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
   "active": "1e985a1f2cee0dbf",
