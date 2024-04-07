@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9053049dd9e25291",
+        "id": "4a3b033fc1fb8cb2",
         "type": "tabs",
         "children": [
           {
-            "id": "05f26684cf88c585",
+            "id": "d39375acf2d50f96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian常用插件推荐以及下载链接.md",
+                "file": "2024-04-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#这里替换成自己的仓库",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "5f62cf04208b755d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian常用插件推荐以及下载链接.md",
+                "file": "2024-04-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian常用插件推荐以及下载链接.md",
+                "file": "2024-04-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian常用插件推荐以及下载链接.md"
+                "file": "2024-04-07.md"
               }
             }
           },
@@ -146,11 +155,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,14 +172,17 @@
       "command-palette:打开命令面板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "templater-obsidian:Templater": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "1e985a1f2cee0dbf",
+  "active": "45f1f43943de108a",
   "lastOpenFiles": [
+    "2024-04-07.md",
+    "Obsidian常用插件推荐以及下载链接.md",
+    "Home.md",
     "git init.md",
     "使用 Github 进行 Obsidian 笔记同步.md",
-    "Obsidian常用插件推荐以及下载链接.md",
     "未命名",
     "新建文本文档.txt",
     "2024-04-03.md"
