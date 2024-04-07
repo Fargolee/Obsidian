@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "18273dad781bd9b1",
+        "id": "9053049dd9e25291",
         "type": "tabs",
         "children": [
           {
-            "id": "908a17cd3e49aa0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "使用 Github 进行 Obsidian 笔记同步.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ea0ac9407a274aa",
+            "id": "05f26684cf88c585",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用 Github 进行 Obsidian 笔记同步.md",
+                "file": "Obsidian常用插件推荐以及下载链接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "使用 Github 进行 Obsidian 笔记同步.md",
+                "file": "Obsidian常用插件推荐以及下载链接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "使用 Github 进行 Obsidian 笔记同步.md"
+                "file": "Obsidian常用插件推荐以及下载链接.md"
               }
             }
           },
@@ -181,9 +168,9 @@
   "active": "1e985a1f2cee0dbf",
   "lastOpenFiles": [
     "git init.md",
+    "使用 Github 进行 Obsidian 笔记同步.md",
     "Obsidian常用插件推荐以及下载链接.md",
     "未命名",
-    "使用 Github 进行 Obsidian 笔记同步.md",
     "新建文本文档.txt",
     "2024-04-03.md"
   ]
