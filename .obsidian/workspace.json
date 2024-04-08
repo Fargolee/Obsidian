@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Page Notes/2024-04-08.md",
+                "file": "Page Notes/Obsidian 一周使用心得（配置、主题和插件）-obsidian插件推荐.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Page Notes/2024-04-08.md",
+                "file": "Page Notes/Obsidian 一周使用心得（配置、主题和插件）-obsidian插件推荐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Page Notes/2024-04-08.md",
+                "file": "Page Notes/Obsidian 一周使用心得（配置、主题和插件）-obsidian插件推荐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Page Notes/2024-04-08.md"
+                "file": "Page Notes/Obsidian 一周使用心得（配置、主题和插件）-obsidian插件推荐.md"
               }
             }
           },
@@ -154,11 +154,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 472.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,24 +173,29 @@
       "templater-obsidian:Templater": false,
       "obsidian-day-planner:Timeline": false,
       "homepage:Open homepage": false,
-      "remotely-secure:Remotely Sync": false
+      "remotely-secure:Remotely Sync": false,
+      "zk-prefixer:创建时间戳笔记": false
     }
   },
   "active": "d39375acf2d50f96",
   "lastOpenFiles": [
-    "Easy Scraper - 不用编程，可视化爬虫，一键获取网页数据，可能是最简单的网络爬虫了[Chrome] - 小众软件.md",
-    "Page Notes/2024-04-08.md",
-    "Page Notes",
+    "Daily Notes/2024-04-08 1.md",
+    "Page Notes/Obsidian 一周使用心得（配置、主题和插件）-obsidian插件推荐.md",
+    "Daily Notes/2024-04-08.md",
+    "Page Notes/202404080934.md",
+    "Daily Notes",
     "新建文件夹",
+    "Page Notes/Easy Scraper - 不用编程，可视化爬虫，一键获取网页数据，可能是最简单的网络爬虫了[Chrome] - 小众软件.md",
+    "Page Notes",
     "附件",
-    "2024-04-07.md",
+    "Daily Notes/2024-04-07.md",
     "黑格尔.md",
-    "Obsidian常用插件推荐以及下载链接.md",
+    "Page Notes/Obsidian常用插件推荐以及下载链接.md",
     "Home.md",
     "git init.md",
-    "使用 Github 进行 Obsidian 笔记同步.md",
+    "Page Notes/使用 Github 进行 Obsidian 笔记同步.md",
     "未命名",
     "新建文本文档.txt",
-    "2024-04-03.md"
+    "Daily Notes/2024-04-03.md"
   ]
 }
