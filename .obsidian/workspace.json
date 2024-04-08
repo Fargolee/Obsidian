@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dec85729c54c6e8e",
+        "id": "ebda270607488bed",
         "type": "tabs",
         "children": [
           {
-            "id": "e44182f65eeca078",
+            "id": "5cee4f351d68c67f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -161,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,11 +177,11 @@
       "zk-prefixer:创建时间戳笔记": true
     }
   },
-  "active": "e44182f65eeca078",
+  "active": "5cee4f351d68c67f",
   "lastOpenFiles": [
+    "未命名.canvas",
     "Daily Notes/2024-04-08.md",
     "Page Notes/软件测试_接口测试面试题_1.6.md",
-    "未命名.canvas",
     "Page Notes/未命名.md",
     "黑格尔.md",
     "模板/随笔摘录.md",
