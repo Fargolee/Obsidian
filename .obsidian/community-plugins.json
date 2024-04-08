@@ -15,5 +15,6 @@
   "dataview",
   "obsidian-minimal-settings",
   "remotely-secure",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "obsidian-hider"
 ]

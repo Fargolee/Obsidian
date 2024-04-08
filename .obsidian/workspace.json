@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4a3b033fc1fb8cb2",
+        "id": "dec85729c54c6e8e",
         "type": "tabs",
         "children": [
           {
-            "id": "d39375acf2d50f96",
+            "id": "e44182f65eeca078",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Page Notes/Obsidian 一周使用心得（配置、主题和插件）-obsidian插件推荐.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,35 +84,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39f8ccbcc6e5c2a5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Page Notes/Obsidian 一周使用心得（配置、主题和插件）-obsidian插件推荐.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "4884ed023ded4e32",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Page Notes/Obsidian 一周使用心得（配置、主题和插件）-obsidian插件推荐.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "1bd58d89dbae0488",
             "type": "leaf",
             "state": {
@@ -128,17 +95,15 @@
             }
           },
           {
-            "id": "a440d6c565744d71",
+            "id": "0e65af0562797386",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Page Notes/Obsidian 一周使用心得（配置、主题和插件）-obsidian插件推荐.md"
-              }
+              "type": "timeline",
+              "state": {}
             }
           },
           {
-            "id": "7d59d36f032b82d0",
+            "id": "dd64c02d5a82a221",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -146,15 +111,43 @@
             }
           },
           {
-            "id": "871aef99d1411616",
+            "id": "fca6faba482e49f1",
             "type": "leaf",
             "state": {
-              "type": "timeline",
-              "state": {}
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92c0df9e49ec1a21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0d4dd1781316e68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/2024-04-08 1.md"
+              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,11 +170,12 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "d39375acf2d50f96",
+  "active": "1e985a1f2cee0dbf",
   "lastOpenFiles": [
+    "黑格尔.md",
+    "Daily Notes/2024-04-08.md",
     "Daily Notes/2024-04-08 1.md",
     "Page Notes/Obsidian 一周使用心得（配置、主题和插件）-obsidian插件推荐.md",
-    "Daily Notes/2024-04-08.md",
     "Page Notes/202404080934.md",
     "Daily Notes",
     "新建文件夹",
@@ -189,7 +183,6 @@
     "Page Notes",
     "附件",
     "Daily Notes/2024-04-07.md",
-    "黑格尔.md",
     "Page Notes/Obsidian常用插件推荐以及下载链接.md",
     "Home.md",
     "git init.md",
