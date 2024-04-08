@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-07.md",
+                "file": "Page Notes/2024-04-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-07.md",
+                "file": "Page Notes/2024-04-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-07.md",
+                "file": "Page Notes/2024-04-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-07.md"
+                "file": "Page Notes/2024-04-08.md"
               }
             }
           },
@@ -171,13 +171,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "templater-obsidian:Templater": false,
       "obsidian-day-planner:Timeline": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "remotely-secure:Remotely Sync": false
     }
   },
   "active": "d39375acf2d50f96",
   "lastOpenFiles": [
-    "黑格尔.md",
+    "Easy Scraper - 不用编程，可视化爬虫，一键获取网页数据，可能是最简单的网络爬虫了[Chrome] - 小众软件.md",
+    "Page Notes/2024-04-08.md",
+    "Page Notes",
+    "新建文件夹",
+    "附件",
     "2024-04-07.md",
+    "黑格尔.md",
     "Obsidian常用插件推荐以及下载链接.md",
     "Home.md",
     "git init.md",
