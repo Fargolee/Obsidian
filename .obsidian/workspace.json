@@ -11,8 +11,12 @@
             "id": "5cee4f351d68c67f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "git init.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -116,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "git init.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "git init.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "git init.md"
+              }
             }
           },
           {

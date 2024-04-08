@@ -9,3 +9,5 @@ git push -u origin main
     ![在这里插入图片描述](https://img-blog.csdnimg.cn/11e3147998574e36842f2709d8deebce.png)  
     将 .obsidian加入.gitignore文件可以写成：  
     /.obsidian/
+
+[微信读书-正版书籍小说免费阅读 (qq.com)](https://weread.qq.com/)
