@@ -16,5 +16,6 @@
   "obsidian-minimal-settings",
   "remotely-secure",
   "obsidian-local-rest-api",
-  "obsidian-hider"
+  "obsidian-hider",
+  "obsidian-view-mode-by-frontmatter"
 ]

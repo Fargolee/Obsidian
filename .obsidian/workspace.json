@@ -23,11 +23,14 @@
             "id": "476dcf92a3788cd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Page Notes/随笔摘录.md",
-                "mode": "source",
-                "source": true
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -133,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Page Notes/随笔摘录.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Page Notes/随笔摘录.md",
+                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,16 +165,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Page Notes/随笔摘录.md"
+                "file": "未命名.canvas"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 472.5,
-    "collapsed": true
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,19 +194,21 @@
   },
   "active": "476dcf92a3788cd2",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "Daily Notes/2024-04-08.md",
+    "Page Notes/未命名.md",
+    "黑格尔.md",
+    "模板/随笔摘录.md",
     "Page Notes/软件测试_接口测试面试题_1.6.md",
-    "Page Notes/随笔摘录.md",
     "模板",
     "Page Notes/Python爬虫1：小白系列之requests和json.md",
     "Page Notes/Python：爬虫雅虎财经数据-selenium.md",
-    "Daily Notes/2024-04-08.md",
     "Page Notes/(12 封私信  80 条消息) 有没有一首歌，让你单曲循环了很久很久？ - 知乎.md",
     "Daily Notes/2024-04-07.md",
     "Page Notes/Obsidian常用插件推荐以及下载链接.md",
     "Page Notes/高鑫门户.md",
     "Daily Notes/2024-04-08 1.md",
     "Page Notes/Chrome插件_Chrome谷歌浏览器插件下载 - 画夹插件网.md",
-    "黑格尔.md",
     "Page Notes/Obsidian 一周使用心得（配置、主题和插件）-obsidian插件推荐.md",
     "Page Notes/202404080934.md",
     "Daily Notes",
