@@ -21,19 +21,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "da5519dbd07b30ba",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-04-09 16.27.29.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-09 16.27.29.excalidraw.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-09 16.27.29.excalidraw.md",
+                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-09 16.27.29.excalidraw.md"
+                "file": "未命名.canvas"
               }
             }
           },
@@ -199,10 +188,10 @@
       "zk-prefixer:创建时间戳笔记": true
     }
   },
-  "active": "da5519dbd07b30ba",
+  "active": "5cee4f351d68c67f",
   "lastOpenFiles": [
-    "未命名.canvas",
     "Excalidraw/Drawing 2024-04-09 16.27.29.excalidraw.md",
+    "未命名.canvas",
     "Excalidraw",
     "Daily Notes/2024-04-09.md",
     "Daily Notes/2024-04-08.md",
