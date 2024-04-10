@@ -11,8 +11,12 @@
             "id": "f962b2e833000446",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-04-10.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -116,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes/2024-04-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes/2024-04-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Notes/2024-04-10.md"
+              }
             }
           },
           {
@@ -179,6 +187,7 @@
   },
   "active": "f962b2e833000446",
   "lastOpenFiles": [
+    "Daily Notes/2024-04-10.md",
     "Excalidraw/Drawing 2024-04-09 16.27.29.excalidraw.md",
     "Daily Notes/2024-04-09.md",
     "未命名.canvas",
