@@ -17,5 +17,6 @@
   "remotely-secure",
   "obsidian-local-rest-api",
   "obsidian-hider",
-  "obsidian-view-mode-by-frontmatter"
+  "obsidian-view-mode-by-frontmatter",
+  "highlightr-plugin"
 ]
