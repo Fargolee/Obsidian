@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-04-12.md",
+                "file": "Daily Notes/2024-04-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-04-12.md",
+                "file": "Daily Notes/2024-04-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-04-12.md",
+                "file": "Daily Notes/2024-04-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-04-12.md"
+                "file": "Daily Notes/2024-04-13.md"
               }
             }
           },
@@ -187,12 +187,13 @@
   },
   "active": "f962b2e833000446",
   "lastOpenFiles": [
-    "Daily Notes/2024-04-10.md",
     "Daily Notes/2024-04-12.md",
+    "Daily Notes/2024-04-13.md",
+    "未命名.canvas",
+    "Daily Notes/2024-04-10.md",
     "Page Notes/各位虫友都关注了哪些优质的公众号 - 发现创造 - 虫部落.md",
     "Excalidraw/Drawing 2024-04-09 16.27.29.excalidraw.md",
     "Daily Notes/2024-04-09.md",
-    "未命名.canvas",
     "Excalidraw",
     "Daily Notes/2024-04-08.md",
     "Page Notes/MediaCrawler，轻松爬取抖音小红书评论数据！.md",
@@ -219,7 +220,6 @@
     "附件",
     "Home.md",
     "git init.md",
-    "Page Notes/使用 Github 进行 Obsidian 笔记同步.md",
     "新建文本文档.txt"
   ]
 }
