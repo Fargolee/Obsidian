@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dc060127dfa2e487",
@@ -188,6 +187,10 @@
   },
   "active": "f962b2e833000446",
   "lastOpenFiles": [
+    "Daily Notes/2024-04-15.md",
+    "Work/未命名.md",
+    "黑格尔.md",
+    "git init.md",
     "附件/Pasted image 20240413173536.png",
     "附件/Pasted image 20240413172932.png",
     "附件/Pasted image 20240413172134.png",
@@ -198,9 +201,7 @@
     "附件/Pasted image 20240413110419.png",
     "附件/Pasted image 20240413100700.png",
     "附件/Pasted image 20240413100617.png",
-    "附件/Pasted image 20240413100030.png",
     "Daily Notes/2024-04-13.md",
-    "Work/未命名.md",
     "Daily Notes/2024-04-12.md",
     "未命名.canvas",
     "Daily Notes/2024-04-10.md",
@@ -213,7 +214,6 @@
     "Page Notes/未命名.md",
     "Page Notes/面试题_软件测试岗_UI自动化篇_1.4.md",
     "Page Notes/软件测试_接口测试面试题_1.6.md",
-    "黑格尔.md",
     "模板/随笔摘录.md",
     "模板",
     "Page Notes/Python爬虫1：小白系列之requests和json.md",
@@ -228,7 +228,6 @@
     "Page Notes/202404080934.md",
     "Daily Notes",
     "新建文件夹",
-    "Page Notes/Easy Scraper - 不用编程，可视化爬虫，一键获取网页数据，可能是最简单的网络爬虫了[Chrome] - 小众软件.md",
     "Page Notes",
     "附件",
     "新建文本文档.txt"
