@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/未命名.md",
+                "file": "Daily Notes/2024-04-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/未命名.md",
+                "file": "Daily Notes/2024-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/未命名.md",
+                "file": "Daily Notes/2024-04-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/未命名.md"
+                "file": "Daily Notes/2024-04-16.md"
               }
             }
           },
@@ -186,10 +186,11 @@
       "zk-prefixer:创建时间戳笔记": true
     }
   },
-  "active": "1e985a1f2cee0dbf",
+  "active": "f962b2e833000446",
   "lastOpenFiles": [
-    "Daily Notes/2024-04-15.md",
     "Work/未命名.md",
+    "Daily Notes/2024-04-16.md",
+    "Daily Notes/2024-04-15.md",
     "附件/Pasted image 20240415170709.png",
     "附件/Pasted image 20240415134406.png",
     "附件/Pasted image 20240415111900.png",
