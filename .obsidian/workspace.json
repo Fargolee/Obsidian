@@ -11,15 +11,31 @@
             "id": "f962b2e833000446",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "a0f5edc3251b3248",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/专柜合约.md",
+                "file": "Work/未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dc060127dfa2e487",
@@ -120,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/专柜合约.md",
+                "file": "Work/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/专柜合约.md",
+                "file": "Work/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/专柜合约.md"
+                "file": "Work/未命名.md"
               }
             }
           },
@@ -185,11 +202,15 @@
       "zk-prefixer:创建时间戳笔记": true
     }
   },
-  "active": "f962b2e833000446",
+  "active": "a0f5edc3251b3248",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-04-18 15.45.48.excalidraw.md",
+    "Work/未命名.md",
+    "Work/未命名.canvas",
+    "未命名.canvas",
+    "Work/专柜合约.md",
     "Daily Notes/2024-04-18.md",
     "Daily Notes/2024-04-17.md",
-    "Work/专柜合约.md",
     "附件/Pasted image 20240416170852.png",
     "Daily Notes/2024-04-16.md",
     "Daily Notes/2024-04-15.md",
@@ -206,7 +227,6 @@
     "附件/Pasted image 20240413171650.png",
     "Daily Notes/2024-04-13.md",
     "Daily Notes/2024-04-12.md",
-    "未命名.canvas",
     "Daily Notes/2024-04-10.md",
     "Page Notes/各位虫友都关注了哪些优质的公众号 - 发现创造 - 虫部落.md",
     "Excalidraw/Drawing 2024-04-09 16.27.29.excalidraw.md",
@@ -224,8 +244,6 @@
     "Page Notes/(12 封私信  80 条消息) 有没有一首歌，让你单曲循环了很久很久？ - 知乎.md",
     "Daily Notes/2024-04-07.md",
     "Page Notes/Obsidian常用插件推荐以及下载链接.md",
-    "Page Notes/高鑫门户.md",
-    "Daily Notes/2024-04-08 1.md",
     "Daily Notes",
     "新建文件夹",
     "Page Notes",
