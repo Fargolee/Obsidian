@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "001a08fd16f3f023",
+        "id": "81e9add50e567fce",
         "type": "tabs",
         "children": [
           {
-            "id": "258112df5280e46f",
+            "id": "e9f4f1f48316b87b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Page Notes/未命名看板.md"
+                "file": "Daily Notes/2024-04-19.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -118,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Page Notes/未命名看板.md",
+                "file": "Daily Notes/2024-04-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Page Notes/未命名看板.md",
+                "file": "Daily Notes/2024-04-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Page Notes/未命名看板.md"
+                "file": "Daily Notes/2024-04-19.md"
               }
             }
           },
@@ -181,14 +183,15 @@
       "homepage:Open homepage": false,
       "remotely-secure:Remotely Sync": false,
       "zk-prefixer:创建时间戳笔记": true,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "258112df5280e46f",
+  "active": "e9f4f1f48316b87b",
   "lastOpenFiles": [
+    "Page Notes/未命名看板.md",
     "Page Notes/一篇文章学透所有Python知识.md",
     "Excalidraw/Drawing 2024-04-19 13.59.25.excalidraw.md",
-    "Page Notes/未命名看板.md",
     "Excalidraw/Drawing 2024-04-19 13.59.24.excalidraw.md",
     "Excalidraw/Drawing 2024-04-19 13.59.11.excalidraw.md",
     "Excalidraw/Drawing 2024-04-19 13.59.09.excalidraw.md",
