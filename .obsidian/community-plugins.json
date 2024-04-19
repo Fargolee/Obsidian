@@ -21,5 +21,6 @@
   "highlightr-plugin",
   "url-into-selection",
   "convert-url-to-iframe",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "quickadd"
 ]
