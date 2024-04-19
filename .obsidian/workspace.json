@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-04-18.md",
+                "file": "Daily Notes/2024-04-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-04-18.md",
+                "file": "Daily Notes/2024-04-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-04-18.md",
+                "file": "Daily Notes/2024-04-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-04-18.md"
+                "file": "Daily Notes/2024-04-19.md"
               }
             }
           },
@@ -188,6 +188,8 @@
   },
   "active": "9e8cb784869648c3",
   "lastOpenFiles": [
+    "Daily Notes/2024-04-18.md",
+    "Daily Notes/2024-04-19.md",
     "Page Notes/整理了60个Python小例子，拿来即用！.md",
     "Page Notes/pytest + yaml 框架 -62.支持yaml和json2种格式用例.md",
     "Page Notes/一秒钟学完所有Python内置模块.md",
@@ -197,7 +199,6 @@
     "Excalidraw/Drawing 2024-04-18 15.45.48.excalidraw.md",
     "Work/未命名.canvas",
     "Work/专柜合约.md",
-    "Daily Notes/2024-04-18.md",
     "Daily Notes/2024-04-17.md",
     "附件/Pasted image 20240416170852.png",
     "Daily Notes/2024-04-16.md",
@@ -227,7 +228,6 @@
     "模板/随笔摘录.md",
     "模板",
     "Page Notes/Python爬虫1：小白系列之requests和json.md",
-    "Page Notes/Python：爬虫雅虎财经数据-selenium.md",
     "Daily Notes",
     "新建文件夹",
     "Page Notes",
