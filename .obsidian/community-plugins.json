@@ -20,5 +20,6 @@
   "obsidian-view-mode-by-frontmatter",
   "highlightr-plugin",
   "url-into-selection",
-  "convert-url-to-iframe"
+  "convert-url-to-iframe",
+  "cm-editor-syntax-highlight-obsidian"
 ]
