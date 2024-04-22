@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-04-19.md",
+                "file": "Daily Notes/2024-04-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-04-19.md",
+                "file": "Daily Notes/2024-04-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-04-19.md",
+                "file": "Daily Notes/2024-04-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-04-19.md"
+                "file": "Daily Notes/2024-04-22.md"
               }
             }
           },
@@ -189,6 +189,8 @@
   },
   "active": "e9f4f1f48316b87b",
   "lastOpenFiles": [
+    "Daily Notes/2024-04-19.md",
+    "Daily Notes/2024-04-22.md",
     "附件/adf7f32ec9765c1268aed9b23dbd3671_MD5.gif",
     "附件/d3f1186358814e28e6e39c9457f13010_MD5.gif",
     "附件/32fddff1ef1179662245512c73de0d54_MD5.png",
@@ -199,7 +201,6 @@
     "附件/298f889c1b75cadc6aeb809bd399ac58_MD5.png",
     "附件/be0c558383f909ecce2299663d7a4048_MD5.png",
     "附件/cbd28cd3f552e775825d04242299debc_MD5.png",
-    "附件/ebb108b80f6085e2f541069464473e4b_MD5.jpg",
     "Page Notes/MarkDown语法 超详细教程 - 经验分享 - Obsidian 中文论坛.md",
     "HomePage",
     "Page Notes/未命名看板.md",
@@ -208,7 +209,6 @@
     "Excalidraw/Drawing 2024-04-19 13.59.24.excalidraw.md",
     "Excalidraw/Drawing 2024-04-19 13.59.11.excalidraw.md",
     "Excalidraw/Drawing 2024-04-19 13.59.09.excalidraw.md",
-    "Daily Notes/2024-04-19.md",
     "Daily Notes/2024-04-18.md",
     "Page Notes/整理了60个Python小例子，拿来即用！.md",
     "Page Notes/pytest + yaml 框架 -62.支持yaml和json2种格式用例.md",
