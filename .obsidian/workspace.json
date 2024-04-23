@@ -10,7 +10,7 @@
           {
             "id": "81e9add50e567fce",
             "type": "tabs",
-            "dimension": 30.495049504950494,
+            "dimension": 72.06703910614524,
             "children": [
               {
                 "id": "e9f4f1f48316b87b",
@@ -20,7 +20,7 @@
                   "state": {
                     "file": "Work/199.md",
                     "mode": "source",
-                    "source": true
+                    "source": false
                   }
                 }
               }
@@ -29,7 +29,7 @@
           {
             "id": "7bb0d3b64c801e7d",
             "type": "tabs",
-            "dimension": 69.5049504950495,
+            "dimension": 27.932960893854748,
             "children": [
               {
                 "id": "e2cd264dfe4ce24f",
@@ -211,7 +211,7 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "e2cd264dfe4ce24f",
+  "active": "e9f4f1f48316b87b",
   "lastOpenFiles": [
     "Page Notes/Python 测开28期-Sam-学习笔记-接口自动化 - 学习笔记 - 测试人社区.md",
     "附件/bd4ef30c9c09064e81f23691bc515789_MD5.png",
