@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/python集成selenium 实现boss自动投递简历.md",
+                "file": "Daily Notes/2024-04-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/python集成selenium 实现boss自动投递简历.md",
+                "file": "Daily Notes/2024-04-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Others/python集成selenium 实现boss自动投递简历.md",
+                "file": "Daily Notes/2024-04-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/python集成selenium 实现boss自动投递简历.md"
+                "file": "Daily Notes/2024-04-24.md"
               }
             }
           },
@@ -203,9 +203,12 @@
   },
   "active": "7805ffaa7e16a159",
   "lastOpenFiles": [
+    "Page Notes/迭代源 - 免费接口收集平台.md",
+    "附件/647ceede9f08e83ab93210bc636ada2e_MD5.jpeg",
+    "附件/Pasted image 20240424161809.png",
+    "Others/python集成selenium 实现boss自动投递简历.md",
     "Others",
     "Daily Notes/2024-04-24.md",
-    "Others/python集成selenium 实现boss自动投递简历.md",
     "Page Notes/52.数据库操作 - 等峰也等你 - 博客园.md",
     "附件/1909abb3751c7b64f0c39462e47fc65b_MD5.svg",
     "Page Notes/22.Web自动化测试之Cookie登录 - 等峰也等你 - 博客园.md",
@@ -220,9 +223,7 @@
     "附件/9000c4f8ef3185104901227987cde8bc_MD5.jpg",
     "附件/4e7b52a6e6ade23cb5fa38c00f84e034_MD5.png",
     "附件/2c9d8af931902fbae0aa2d0aa2f665a4_MD5.png",
-    "附件/4aa385677226db4a1faafd11ec745df1_MD5.png",
     "Page Notes/韦奇_pytest_api_po_自动化 - 学习笔记 - 测试人社区.md",
-    "附件/f715280502dfd2ccd695280d00c817f3_MD5.png",
     "Page Notes/jck28 - 小柒 - Redis 内存数据库 - 学习笔记 - 测试人社区.md",
     "Page Notes/Python 测开28期 - cy - 学习笔记 - 学习笔记 - 测试人社区.md",
     "Page Notes/大厂真实 Git 开发工作流程 - 掘金.md",
