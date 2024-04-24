@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7805ffaa7e16a159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Others/python集成selenium 实现boss自动投递简历.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-04-24.md",
+                "file": "Others/python集成selenium 实现boss自动投递简历.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-04-24.md",
+                "file": "Others/python集成selenium 实现boss自动投递简历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-04-24.md"
+                "file": "Others/python集成selenium 实现boss自动投递简历.md"
               }
             }
           },
@@ -188,10 +201,12 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "1e985a1f2cee0dbf",
+  "active": "7805ffaa7e16a159",
   "lastOpenFiles": [
-    "Page Notes/52.数据库操作 - 等峰也等你 - 博客园.md",
+    "Others",
     "Daily Notes/2024-04-24.md",
+    "Others/python集成selenium 实现boss自动投递简历.md",
+    "Page Notes/52.数据库操作 - 等峰也等你 - 博客园.md",
     "附件/1909abb3751c7b64f0c39462e47fc65b_MD5.svg",
     "Page Notes/22.Web自动化测试之Cookie登录 - 等峰也等你 - 博客园.md",
     "Page Notes/jck28 - 小柒 - 接口自动化测试L2 请求构造与响应断言 - 学习笔记 - 测试人社区.md",
@@ -228,15 +243,12 @@
     "Daily Notes/2024-04-18.md",
     "Page Notes/整理了60个Python小例子，拿来即用！.md",
     "Page Notes/pytest + yaml 框架 -62.支持yaml和json2种格式用例.md",
-    "Page Notes/一秒钟学完所有Python内置模块.md",
-    "Excalidraw/Drawing 2024-04-09 16.27.29.excalidraw.md",
     "未命名.canvas",
     "Work/未命名.canvas",
     "Excalidraw",
     "模板",
     "Daily Notes",
     "新建文件夹",
-    "Page Notes",
-    "附件"
+    "Page Notes"
   ]
 }
