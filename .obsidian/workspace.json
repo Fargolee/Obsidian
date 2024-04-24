@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9daa5a65372802d8",
-        "type": "split",
+        "id": "81e9add50e567fce",
+        "type": "tabs",
         "children": [
           {
-            "id": "81e9add50e567fce",
-            "type": "tabs",
-            "dimension": 72.06703910614524,
-            "children": [
-              {
-                "id": "e9f4f1f48316b87b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily Notes/2024-04-24.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "e9f4f1f48316b87b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-04-24.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "7bb0d3b64c801e7d",
-            "type": "tabs",
-            "dimension": 27.932960893854748,
-            "children": [
-              {
-                "id": "e2cd264dfe4ce24f",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,7 +188,7 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "e9f4f1f48316b87b",
+  "active": "1e985a1f2cee0dbf",
   "lastOpenFiles": [
     "Page Notes/52.数据库操作 - 等峰也等你 - 博客园.md",
     "Daily Notes/2024-04-24.md",
