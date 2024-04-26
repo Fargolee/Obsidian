@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -201,8 +202,9 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "7805ffaa7e16a159",
+  "active": "5f62cf04208b755d",
   "lastOpenFiles": [
+    "Page Notes/Python基础01-深入探讨文件操作 - 『编程语言区』 - 吾爱破解 - LCG - LSG 安卓破解病毒分析www.52pojie.cn.md",
     "Page Notes/获取cookie源码，适合大部分网站 - 『编程语言区』 - 吾爱破解 - LCG - LSG 安卓破解病毒分析www.52pojie.cn.md",
     "Page Notes/钟烟API - 免费稳定的API接口.md",
     "Daily Notes/2024-04-25.md",
@@ -243,7 +245,6 @@
     "Page Notes/MarkDown语法 超详细教程 - 经验分享 - Obsidian 中文论坛.md",
     "HomePage",
     "Page Notes/一篇文章学透所有Python知识.md",
-    "Excalidraw/Drawing 2024-04-19 13.59.25.excalidraw.md",
     "未命名.canvas",
     "Work/未命名.canvas",
     "Excalidraw",
