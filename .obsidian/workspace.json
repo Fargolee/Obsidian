@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "af8ba16681ff6e64",
+        "id": "d58ad99e2a3272be",
         "type": "tabs",
         "children": [
           {
-            "id": "83f5841e727eadc6",
+            "id": "4168395af97007e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-04-30.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -120,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-04-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-04-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,55 +182,54 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "83f5841e727eadc6",
+  "active": "1e985a1f2cee0dbf",
   "lastOpenFiles": [
-    "Work/访厂.md",
     "Daily Notes/2024-04-30.md",
-    "模板/tp/tp_foldermoc-Include-subfolders.md",
-    "模板/tp/tp.md",
-    "模板/tp/tp-默认笔记模板.md",
-    "模板/tp/tp-通用模板.md",
-    "模板/tp/tp-自动选择模板.md",
-    "模板/tp/tp-笔记收集箱.md",
-    "模板/tp/tp-笔记分类模板.md",
-    "模板/tp/tp-流水账模板.md",
-    "模板/tp/tp-日记模板-日历.md",
-    "模板/tp/tp-日记模板-心情2.md",
-    "模板/tp/tp-日记模板-心情.md",
-    "模板/tp/tp-插件启停模板.md",
-    "模板/tp/tp-人物模板.md",
-    "模板/tp/tp-movie.md",
-    "模板/tp/tp-movie-douban.md",
-    "模板/tp/tp-book-callout.md",
-    "模板/tp",
-    "Daily Notes/2024-04-24.md",
-    "Daily Notes/2024-04-28.md",
+    "附件/d7f8cfe5aad518789fe266e16867c16d_MD5.png",
+    "Work/访厂.md",
+    "附件/50401ebfee6c477429efa1b2a78a53f5_MD5.png",
+    "附件/b3d8129fe40b369056b5d56e75a4e8bc_MD5.png",
+    "附件/d027937125f2926432a74e8bf409cb20_MD5.png",
+    "附件/92eb7290c8c290dab4c138d816b64d82_MD5.png",
+    "88-Template/tp/tp_foldermoc-Include-subfolders.md",
+    "88-Template/tp/tp.md",
+    "88-Template/tp/tp-默认笔记模板.md",
+    "88-Template/tp/tp-通用模板.md",
+    "88-Template/tp/tp-自动选择模板.md",
+    "88-Template/tp/tp-笔记收集箱.md",
+    "88-Template/tp/tp-笔记分类模板.md",
+    "88-Template/tp/tp-流水账模板.md",
+    "88-Template/tp/tp-日记模板-日历.md",
+    "88-Template/tp/tp-日记模板-心情2.md",
+    "88-Template/tp/tp-日记模板-心情.md",
+    "88-Template/tp/tp-插件启停模板.md",
+    "88-Template/tp/tp-人物模板.md",
+    "88-Template/tp/tp-movie.md",
+    "88-Template/tp/tp-movie-douban.md",
+    "88-Template/tp/tp-book-callout.md",
+    "88-Template/tp",
+    "88-Template/script/template/template.md",
+    "88-Template/script/template/taskprogress.js",
+    "88-Template/script/template/getweather.js",
+    "88-Template/script/template/getTitleSnippet.js",
+    "88-Template/script/template/getrandomImage.js",
+    "88-Template/script/template",
+    "88-Template/script/TasksTimeline/view.js",
+    "88-Template/script/TasksTimeline/view.css",
+    "88-Template/script/TasksTimeline/README.md",
+    "88-Template/script/TasksTimeline",
+    "88-Template/script/tasksCalendar/view.js",
+    "88-Template/script/tasksCalendar/README.md",
+    "88-Template/script/notesList/README.md",
+    "88-Template/script/script.md",
+    "88-Template/ReactJS/返回当前活动笔记的所有反向链接.md",
+    "88-Template/ReactJS/slidegallery.md",
     "附件/e61b96e4931e46271341292ce0efcf0e_MD5.webp",
-    "Page Notes/快速了解接口测试.md",
-    "Daily Notes/2024-04-26.md",
     "附件/34c839b0c11203e55d19b7ef3a7f1e10_MD5.jpg",
-    "Page Notes/Python基础01-深入探讨文件操作 - 『编程语言区』 - 吾爱破解 - LCG - LSG 安卓破解病毒分析www.52pojie.cn.md",
-    "Page Notes/获取cookie源码，适合大部分网站 - 『编程语言区』 - 吾爱破解 - LCG - LSG 安卓破解病毒分析www.52pojie.cn.md",
-    "Page Notes/钟烟API - 免费稳定的API接口.md",
-    "Daily Notes/2024-04-25.md",
     "附件/bd7b195e4676234097698042a2dc6565_MD5.jpeg",
     "附件/Pasted image 20240425192013.png",
     "附件/4f166bb7a315b74f9343747d4d54ebc9_MD5.png",
-    "附件/aa79ba566c8e218cce5db33c593cd7df_MD5.png",
-    "附件/ab13af0c1b91255d51ab9a8f397d76be_MD5.png",
-    "附件/647ceede9f08e83ab93210bc636ada2e_MD5.jpeg",
-    "附件/Pasted image 20240424161809.png",
-    "Others",
-    "附件/1909abb3751c7b64f0c39462e47fc65b_MD5.svg",
-    "199 1.xmind",
-    "附件/199.xmind",
-    "199.xmind",
-    "HomePage",
     "未命名.canvas",
-    "Work/未命名.canvas",
-    "Excalidraw",
-    "模板",
-    "Daily Notes",
-    "新建文件夹"
+    "Work/未命名.canvas"
   ]
 }
