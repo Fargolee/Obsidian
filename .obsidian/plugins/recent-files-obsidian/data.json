@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "tp-日记模板-日历",
+      "path": "模板/tp/tp-日记模板-日历.md"
+    },
+    {
+      "basename": "tp-人物模板",
+      "path": "模板/tp/tp-人物模板.md"
+    },
+    {
+      "basename": "tp-默认笔记模板",
+      "path": "模板/tp/tp-默认笔记模板.md"
+    },
+    {
+      "basename": "tp-流水账模板",
+      "path": "模板/tp/tp-流水账模板.md"
+    },
+    {
+      "basename": "tp-插件启停模板",
+      "path": "模板/tp/tp-插件启停模板.md"
+    },
+    {
+      "basename": "tp-笔记收集箱",
+      "path": "模板/tp/tp-笔记收集箱.md"
+    },
+    {
+      "basename": "tp-笔记分类模板",
+      "path": "模板/tp/tp-笔记分类模板.md"
+    },
+    {
+      "basename": "tp-movie",
+      "path": "模板/tp/tp-movie.md"
+    },
+    {
+      "basename": "tp-book-callout",
+      "path": "模板/tp/tp-book-callout.md"
+    },
+    {
+      "basename": "tp-自动选择模板",
+      "path": "模板/tp/tp-自动选择模板.md"
+    },
+    {
+      "basename": "tp-日记模板-心情",
+      "path": "模板/tp/tp-日记模板-心情.md"
+    },
+    {
+      "basename": "tp-日记模板-心情2",
+      "path": "模板/tp/tp-日记模板-心情2.md"
+    },
+    {
+      "basename": "随笔摘录",
+      "path": "模板/随笔摘录.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.canvas"
+    },
+    {
+      "basename": "2024-04-30",
+      "path": "Daily Notes/2024-04-30.md"
+    },
+    {
       "basename": "访厂",
       "path": "Work/访厂.md"
     },
@@ -103,10 +163,6 @@
     {
       "basename": "软件测试_接口测试面试题_1.6",
       "path": "Page Notes/软件测试_接口测试面试题_1.6.md"
-    },
-    {
-      "basename": "随笔摘录",
-      "path": "模板/随笔摘录.md"
     },
     {
       "basename": "Python爬虫1：小白系列之requests和json",

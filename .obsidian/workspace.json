@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d58ad99e2a3272be",
+        "id": "bb80c65072d6a8de",
         "type": "tabs",
         "children": [
           {
-            "id": "4168395af97007e8",
+            "id": "ef1f715e8fc3bb98",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -116,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "模板/tp/tp-日记模板-日历.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "模板/tp/tp-日记模板-日历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-04-30.md"
+                "file": "模板/tp/tp-日记模板-日历.md"
               }
             }
           },
@@ -184,6 +186,21 @@
   },
   "active": "1e985a1f2cee0dbf",
   "lastOpenFiles": [
+    "附件/7e9a24f821c809fcf94e8a2c79a453ae_MD5.png",
+    "模板/tp/tp-人物模板.md",
+    "模板/tp/tp-默认笔记模板.md",
+    "模板/tp/tp-流水账模板.md",
+    "模板/tp/tp-插件启停模板.md",
+    "模板/tp/tp-笔记收集箱.md",
+    "模板/tp/tp-笔记分类模板.md",
+    "模板/tp/tp-movie.md",
+    "模板/tp/tp-book-callout.md",
+    "模板/tp/tp-自动选择模板.md",
+    "模板/tp/tp-日记模板-心情.md",
+    "模板/tp/tp-日记模板-日历.md",
+    "模板/tp/tp-日记模板-心情2.md",
+    "模板/随笔摘录.md",
+    "未命名.canvas",
     "Daily Notes/2024-04-30.md",
     "附件/d7f8cfe5aad518789fe266e16867c16d_MD5.png",
     "Work/访厂.md",
@@ -201,14 +218,7 @@
     "88-Template/tp/tp-流水账模板.md",
     "88-Template/tp/tp-日记模板-日历.md",
     "88-Template/tp/tp-日记模板-心情2.md",
-    "88-Template/tp/tp-日记模板-心情.md",
-    "88-Template/tp/tp-插件启停模板.md",
-    "88-Template/tp/tp-人物模板.md",
-    "88-Template/tp/tp-movie.md",
-    "88-Template/tp/tp-movie-douban.md",
-    "88-Template/tp/tp-book-callout.md",
     "88-Template/tp",
-    "88-Template/script/template/template.md",
     "88-Template/script/template/taskprogress.js",
     "88-Template/script/template/getweather.js",
     "88-Template/script/template/getTitleSnippet.js",
@@ -216,20 +226,13 @@
     "88-Template/script/template",
     "88-Template/script/TasksTimeline/view.js",
     "88-Template/script/TasksTimeline/view.css",
-    "88-Template/script/TasksTimeline/README.md",
     "88-Template/script/TasksTimeline",
     "88-Template/script/tasksCalendar/view.js",
-    "88-Template/script/tasksCalendar/README.md",
-    "88-Template/script/notesList/README.md",
-    "88-Template/script/script.md",
-    "88-Template/ReactJS/返回当前活动笔记的所有反向链接.md",
-    "88-Template/ReactJS/slidegallery.md",
     "附件/e61b96e4931e46271341292ce0efcf0e_MD5.webp",
     "附件/34c839b0c11203e55d19b7ef3a7f1e10_MD5.jpg",
     "附件/bd7b195e4676234097698042a2dc6565_MD5.jpeg",
     "附件/Pasted image 20240425192013.png",
     "附件/4f166bb7a315b74f9343747d4d54ebc9_MD5.png",
-    "未命名.canvas",
     "Work/未命名.canvas"
   ]
 }
