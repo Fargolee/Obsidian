@@ -1,4 +1,5 @@
 {
-  "autorun": true,
-  "folder": "Daily Notes"
+  "autorun": false,
+  "folder": "Daily Notes",
+  "template": "模板/tp/tp-日记模板-日历"
 }
