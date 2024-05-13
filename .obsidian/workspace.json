@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "809676f7bad2d665",
+        "id": "8409a38f0b54393e",
         "type": "tabs",
         "children": [
           {
-            "id": "56432f23031a2de8",
+            "id": "8b3b7b524f9fc0ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-05-11.md",
+                "file": "Daily Notes/2024-05-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-05-11.md",
+                "file": "Daily Notes/2024-05-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-05-11.md",
+                "file": "Daily Notes/2024-05-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-05-11.md"
+                "file": "Daily Notes/2024-05-13.md"
               }
             }
           },
@@ -188,10 +188,11 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "56432f23031a2de8",
+  "active": "8b3b7b524f9fc0ca",
   "lastOpenFiles": [
-    "Learn/列表.md",
     "Daily Notes/2024-05-11.md",
+    "Daily Notes/2024-05-13.md",
+    "Learn/列表.md",
     "Learn",
     "Daily Notes/2024-05-10.md",
     "Daily Notes/2024-05-07.md",
@@ -225,7 +226,6 @@
     "88-Template/tp/tp.md",
     "88-Template/tp/tp-默认笔记模板.md",
     "88-Template/tp/tp-通用模板.md",
-    "88-Template/tp/tp-自动选择模板.md",
     "88-Template/tp",
     "88-Template/script/template/taskprogress.js",
     "88-Template/script/template/getweather.js",
