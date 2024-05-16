@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8409a38f0b54393e",
+        "id": "80b537988c995a51",
         "type": "tabs",
         "children": [
           {
-            "id": "8b3b7b524f9fc0ca",
+            "id": "0ae69524789d9cc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/198-1.md",
-                "mode": "preview",
+                "file": "Daily Notes/2024-05-16.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/198-1.md",
+                "file": "Daily Notes/2024-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/198-1.md",
+                "file": "Daily Notes/2024-05-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/198-1.md"
+                "file": "Daily Notes/2024-05-16.md"
               }
             }
           },
@@ -188,8 +188,10 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "8b3b7b524f9fc0ca",
+  "active": "0ae69524789d9cc5",
   "lastOpenFiles": [
+    "Work/198-1.md",
+    "Daily Notes/2024-05-16.md",
     "附件/Pasted image 20240513153009.png",
     "附件/f00fa92f0a33ba8e9a074f6e65362980_MD5.jpeg",
     "附件/Pasted image 20240513152954.png",
@@ -200,9 +202,7 @@
     "附件/df629e61b60e788e6570f81eebda5c9f_MD5.jpeg",
     "附件/Pasted image 20240513150152.png",
     "附件/20023f5117d5c3be30d2ff89f140d2cc_MD5.jpeg",
-    "附件/Pasted image 20240513142657.png",
     "Daily Notes/2024-05-13.md",
-    "Work/198-1.md",
     "Daily Notes/2024-05-11.md",
     "Learn/列表.md",
     "Learn",
