@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "80b537988c995a51",
+        "id": "e93a937dca8e9cd8",
         "type": "tabs",
         "children": [
           {
-            "id": "0ae69524789d9cc5",
+            "id": "55b4476d9785b6b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,7 +188,7 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "0ae69524789d9cc5",
+  "active": "55b4476d9785b6b6",
   "lastOpenFiles": [
     "Work/198-1.md",
     "Daily Notes/2024-05-16.md",
