@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-05-20.md",
+                "file": "Others/弱智吧.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-05-20.md",
+                "file": "Others/弱智吧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-05-20.md",
+                "file": "Others/弱智吧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-05-20.md"
+                "file": "Others/弱智吧.md"
               }
             }
           },
@@ -190,8 +190,9 @@
   },
   "active": "31a331efdde5eba3",
   "lastOpenFiles": [
-    "Daily Notes/2024-05-16.md",
     "Daily Notes/2024-05-20.md",
+    "Others/弱智吧.md",
+    "Daily Notes/2024-05-16.md",
     "Work/198-1.md",
     "附件/Pasted image 20240513153009.png",
     "附件/f00fa92f0a33ba8e9a074f6e65362980_MD5.jpeg",
@@ -227,7 +228,6 @@
     "未命名.canvas",
     "Daily Notes/2024-04-30.md",
     "Work/访厂.md",
-    "88-Template/tp/tp_foldermoc-Include-subfolders.md",
     "88-Template/tp",
     "88-Template/script/template/taskprogress.js",
     "88-Template/script/template/getweather.js",
