@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-05-20",
+      "path": "Daily Notes/2024-05-20.md"
+    },
+    {
       "basename": "2024-05-16",
       "path": "Daily Notes/2024-05-16.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "软件测试_接口测试面试题_1.6",
       "path": "Page Notes/软件测试_接口测试面试题_1.6.md"
-    },
-    {
-      "basename": "Python爬虫1：小白系列之requests和json",
-      "path": "Page Notes/Python爬虫1：小白系列之requests和json.md"
     }
   ],
   "omittedPaths": [],
