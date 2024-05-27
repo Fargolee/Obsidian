@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "719419316e052376",
+        "id": "394fe1b9bd4ab232",
         "type": "tabs",
         "children": [
           {
-            "id": "052db3e2e985bff4",
+            "id": "82ed5b08c50c0b30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn/API.md",
-                "mode": "preview",
+                "file": "Daily Notes/2024-05-27.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn/API.md",
+                "file": "Daily Notes/2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn/API.md",
+                "file": "Daily Notes/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn/API.md"
+                "file": "Daily Notes/2024-05-27.md"
               }
             }
           },
@@ -188,10 +188,11 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "052db3e2e985bff4",
+  "active": "82ed5b08c50c0b30",
   "lastOpenFiles": [
-    "Daily Notes/2024-05-22.md",
     "Learn/API.md",
+    "Daily Notes/2024-05-27.md",
+    "Daily Notes/2024-05-22.md",
     "Others/弱智吧.md",
     "Daily Notes/2024-05-20.md",
     "Daily Notes/2024-05-16.md",
@@ -226,7 +227,6 @@
     "模板/tp/tp-日记模板-心情.md",
     "模板/tp/tp-日记模板-日历.md",
     "模板/tp/tp-日记模板-心情2.md",
-    "模板/随笔摘录.md",
     "未命名.canvas",
     "88-Template/tp",
     "88-Template/script/template/taskprogress.js",
