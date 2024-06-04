@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cda25d2c5caab30d",
+        "id": "970359814ac82c8b",
         "type": "tabs",
         "children": [
           {
-            "id": "d8147e981e7a6b2d",
+            "id": "f448cb88cce6a43c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-05-31.md",
+                "file": "Daily Notes/2024-06-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-05-31.md",
+                "file": "Daily Notes/2024-06-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-05-31.md",
+                "file": "Daily Notes/2024-06-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-05-31.md"
+                "file": "Daily Notes/2024-06-04.md"
               }
             }
           },
@@ -188,12 +188,13 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "d8147e981e7a6b2d",
+  "active": "f448cb88cce6a43c",
   "lastOpenFiles": [
+    "Daily Notes/2024-05-31.md",
+    "Daily Notes/2024-06-04.md",
     "附件/139a31aa7500493c2afe6ed7ef3cbcbe_MD5.jpeg",
     "附件/Pasted image 20240531093539.png",
     "Daily Notes/2024-05-28.md",
-    "Daily Notes/2024-05-31.md",
     "Daily Notes/2024-05-27.md",
     "Learn/API.md",
     "Daily Notes/2024-05-22.md",
@@ -209,7 +210,6 @@
     "附件/e4183ef2bd2d4069374bbe9ef2003c87_MD5.jpeg",
     "附件/Pasted image 20240513150958.png",
     "附件/df629e61b60e788e6570f81eebda5c9f_MD5.jpeg",
-    "附件/Pasted image 20240513150152.png",
     "Daily Notes/2024-05-13.md",
     "Daily Notes/2024-05-11.md",
     "Learn/列表.md",
