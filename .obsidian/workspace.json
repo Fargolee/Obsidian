@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aaacf2ca5163a0c8",
+        "id": "7177fbbcc0e36e29",
         "type": "tabs",
         "children": [
           {
-            "id": "4a79ca66314b023f",
+            "id": "4f6f65dc31743cd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4cb0b3cd6a59d42b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-06-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-06-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/2024-06-17.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,10 +195,10 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "4a79ca66314b023f",
+  "active": "4cb0b3cd6a59d42b",
   "lastOpenFiles": [
-    "Daily Notes/2024-06-04.md",
     "Daily Notes/2024-06-17.md",
+    "Daily Notes/2024-06-04.md",
     "Daily Notes/2024-05-31.md",
     "附件/139a31aa7500493c2afe6ed7ef3cbcbe_MD5.jpeg",
     "附件/Pasted image 20240531093539.png",
