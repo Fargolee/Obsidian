@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7177fbbcc0e36e29",
+        "id": "6f8b61784107abbe",
         "type": "tabs",
         "children": [
           {
-            "id": "4f6f65dc31743cd5",
+            "id": "b0fc76afa5148aaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-06-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cb0b3cd6a59d42b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learn/未命名.md",
+                "file": "Daily Notes/2024-06-20.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn/未命名.md",
+                "file": "Daily Notes/2024-06-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn/未命名.md",
+                "file": "Daily Notes/2024-06-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn/未命名.md"
+                "file": "Daily Notes/2024-06-20.md"
               }
             }
           },
@@ -201,10 +188,11 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "4cb0b3cd6a59d42b",
+  "active": "b0fc76afa5148aaa",
   "lastOpenFiles": [
-    "Learn/列表.md",
     "Learn/未命名.md",
+    "Daily Notes/2024-06-20.md",
+    "Learn/列表.md",
     "Daily Notes/2024-06-17.md",
     "Daily Notes/2024-06-04.md",
     "Daily Notes/2024-05-31.md",
@@ -239,7 +227,6 @@
     "模板/tp/tp-插件启停模板.md",
     "模板/tp/tp-笔记收集箱.md",
     "模板/tp/tp-笔记分类模板.md",
-    "模板/tp/tp-movie.md",
     "未命名.canvas",
     "88-Template/tp",
     "88-Template/script/template/taskprogress.js",
