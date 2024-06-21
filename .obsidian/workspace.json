@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dfb9de94c44b5e80",
+        "id": "f05236621c2dddc4",
         "type": "tabs",
         "children": [
           {
-            "id": "5876e225dca7c567",
+            "id": "6f3e8fc1cf716816",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -123,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "未命名 1.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -191,10 +180,10 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "5876e225dca7c567",
+  "active": "6f3e8fc1cf716816",
   "lastOpenFiles": [
-    "Daily Notes/2024-06-21.md",
     "未命名 1.canvas",
+    "Daily Notes/2024-06-21.md",
     "Daily Notes/2024-06-20.md",
     "Learn/未命名.md",
     "Learn/列表.md",
