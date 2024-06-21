@@ -11,8 +11,12 @@
             "id": "6f3e8fc1cf716816",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "黑格尔.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -116,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "黑格尔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "黑格尔.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "黑格尔.md"
+              }
             }
           },
           {
@@ -177,16 +185,17 @@
       "zk-prefixer:创建时间戳笔记": true,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
-      "obsidian-day-and-night:Toggle Theme": false
+      "obsidian-day-and-night:Toggle Theme": false,
+      "obsidian42-text-transporter:Text Transporter": false
     }
   },
   "active": "6f3e8fc1cf716816",
   "lastOpenFiles": [
+    "Learn/列表.md",
     "未命名 1.canvas",
     "Daily Notes/2024-06-21.md",
     "Daily Notes/2024-06-20.md",
     "Learn/未命名.md",
-    "Learn/列表.md",
     "Daily Notes/2024-06-17.md",
     "Daily Notes/2024-06-04.md",
     "Daily Notes/2024-05-31.md",

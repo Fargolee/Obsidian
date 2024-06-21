@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "黑格尔",
+      "path": "黑格尔.md"
+    },
+    {
+      "basename": "列表",
+      "path": "Learn/列表.md"
+    },
+    {
       "basename": "未命名 1",
       "path": "未命名 1.canvas"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "未命名",
       "path": "Learn/未命名.md"
-    },
-    {
-      "basename": "列表",
-      "path": "Learn/列表.md"
     },
     {
       "basename": "2024-06-17",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-04-18",
       "path": "Daily Notes/2024-04-18.md"
-    },
-    {
-      "basename": "营销货号写入中台异动记录",
-      "path": "Work/营销货号写入中台异动记录.md"
     }
   ],
   "omittedPaths": [],
