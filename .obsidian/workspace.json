@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "黑格尔.md",
+                "file": "Daily Notes/2024-06-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "黑格尔.md",
+                "file": "Daily Notes/2024-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "黑格尔.md",
+                "file": "Daily Notes/2024-06-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "黑格尔.md"
+                "file": "Daily Notes/2024-06-21.md"
               }
             }
           },
@@ -186,11 +186,12 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
       "obsidian-day-and-night:Toggle Theme": false,
-      "obsidian42-text-transporter:Text Transporter": false
+      "translate:Open translation view": false
     }
   },
   "active": "6f3e8fc1cf716816",
   "lastOpenFiles": [
+    "黑格尔.md",
     "Learn/列表.md",
     "未命名 1.canvas",
     "Daily Notes/2024-06-21.md",
