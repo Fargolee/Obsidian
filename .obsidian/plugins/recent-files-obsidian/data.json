@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "优秀公众号",
+      "path": "Others/优秀公众号.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "Learn/未命名.md"
+    },
+    {
       "basename": "2024-06-26",
       "path": "Daily Notes/2024-06-26.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "2024-06-20",
       "path": "Daily Notes/2024-06-20.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "Learn/未命名.md"
     },
     {
       "basename": "2024-06-17",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-04-22",
       "path": "Daily Notes/2024-04-22.md"
-    },
-    {
-      "basename": "2024-04-19",
-      "path": "Daily Notes/2024-04-19.md"
     }
   ],
   "omittedPaths": [],
