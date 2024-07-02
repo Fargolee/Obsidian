@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b6330fedc054c3a3",
+        "id": "738e2df0fbe5dc31",
         "type": "tabs",
         "children": [
           {
-            "id": "e442f49ef57e31f4",
+            "id": "d48af9c2ab75ad49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/购货协议.md",
+                "file": "Daily Notes/2024-07-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/购货协议.md",
+                "file": "Daily Notes/2024-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/购货协议.md",
+                "file": "Daily Notes/2024-07-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/购货协议.md"
+                "file": "Daily Notes/2024-07-02.md"
               }
             }
           },
@@ -189,10 +189,11 @@
       "translate:Open translation view": false
     }
   },
-  "active": "e442f49ef57e31f4",
+  "active": "d48af9c2ab75ad49",
   "lastOpenFiles": [
-    "Others/优秀公众号.md",
     "Work/购货协议.md",
+    "Daily Notes/2024-07-02.md",
+    "Others/优秀公众号.md",
     "附件/d81bec59f127bdbb32ff53fc435d63cc_MD5.jpeg",
     "附件/Pasted image 20240626104533.png",
     "Learn/未命名.md",
@@ -228,7 +229,6 @@
     "Daily Notes/2024-05-07.md",
     "Daily Notes/2024-05-06.md",
     "Page Notes/【夜读】长相年轻的人，都做好了这四件事.md",
-    "模板/tp/tp-人物模板.md",
     "未命名.canvas",
     "88-Template/tp",
     "88-Template/script/template/taskprogress.js",
